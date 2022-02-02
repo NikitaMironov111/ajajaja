@@ -1,0 +1,2 @@
+[2022-1-25 11:53:39] layer "SPEECH.jpg": Duplicate path: SPEECH.jpg
+[2022-1-25 11:53:38] layer "PICTURE.jpg": Duplicate path: PICTURE.jpg
